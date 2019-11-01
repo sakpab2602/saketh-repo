@@ -1,0 +1,16 @@
+body{
+	top: 50%;
+	left: 50%;
+	background-image: url("form.jpg");
+	background-size: cover;
+}
+.form{
+	position: fixed;
+	background: black;
+	width: 450px;
+	top: 40%;
+	left: 30%;
+	color: white;
+	padding-left: 150px;
+	border: 5px solid red;
+}
